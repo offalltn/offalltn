@@ -1,12 +1,12 @@
 ### Hello World 👋 It's [Offalltn](https://offalltn.github.io/MyPortfolio/)
 
 
-**Talking about Personal Stuffs:**
+**Talking about Security Stuffs:**
 
 - 🔭 I’m currently CyberSecurity Engineer at CYLERT.
 - 🌱 I’m currently learning Nim
-- 💞️ I’m looking to collaborate on Offensive tools and evading AV
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💞️ I’m looking to collaborate on Offensive tools and evading AV and EDR
+- 💬 Ask me about anything , Would love to answer.✌
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/mohamed-kassem-199a10202
 
 
